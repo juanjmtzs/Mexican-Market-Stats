@@ -1,2 +1,2 @@
 # Mexican-Market-Stats
-Data for Mexican Market statistics
+Data used on the daily reports for Market Statistics in http://bi-markets.hiketech.com.mx/
